@@ -4,7 +4,7 @@ layout: default
 
 ### Eventos
 
-* Segundo seminario del grupo de transporte. Sevilla, 28-29/11/2024.
+* **Segundo seminario del grupo de transporte. Sevilla, 28-29/11/2024.**
     * Diseño de Redes de Autobuses y Determinación de la Flota. Alicia de los Santos, Universidad de Sevilla.
     * An Integrated Design Approach for Rapid and Slow Transit Modes, Natividad González, Universidad Loyola, Sevilla.
     * Approaches for the Maximal-Covering Transit Network Design Problem, Juan Antonio Mesa, Universidad de Sevilla.
@@ -19,4 +19,4 @@ layout: default
     * Airline Competitive Hub-and-Spoke Network Design by Reweighted Norm-1, Fernando Real-Rojas, Universidad Rey Juan Carlos.
     * Integrated Regional Airline Scheduling Via Column Generation, Alberto Santini, Universitat Pompeu Fabra.
     * A Benders Decomposition Approach for an Integrated and Non-Linear Model for Airport Runway Assignment and Aircraft Trajectory Optimisation, Luis Cadarso, Universidad Rey Juan Carlos.
-* Primer seminario del grupo de transporte. Valencia, ??/??/2014.
+* **Primer seminario del grupo de transporte. Valencia, ??/??/2014.**
