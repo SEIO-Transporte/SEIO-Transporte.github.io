@@ -1,16 +1,8 @@
-title: Parchment
-author: pro-panda
-subtitle: The life of a frustrated engineer
+title: Grupo de Transporte de la SEIO
+author: Grupo de Transporte de la SEIO
 
-url: "https://rahulbothra.com"
-baseurl: "/parchment"
-
-footer_only_homepage: true
-footer_url: "https://github.com/rhl-bthr"
-footer_text: "Theme by rhl-bthr"
-
-profile-picture: assets/profile.png
-favicon_location: assets/favicon.ico
+url: "https://seio-transporte.github.io"
+baseurl: "/"
 
 permalink: /:year-:month-:day-:title/
 sass:
@@ -18,7 +10,9 @@ sass:
     sass_dir: css
 
 navbar:
- - name: "About"
-   link: "about"
- - name: "Resume"
-   absolute-link: "https://rahulbothra.com/cv.pdf"
+ - name: "Noticias"
+   link: ""
+ - name: "Eventos"
+   link: "events"
+ - name: "Miembros"
+   link: "members"

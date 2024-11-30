@@ -3,7 +3,7 @@
 ---
 // Customization Variables
 
-$accent: #FF0F00;
+$accent: #0339A6;
 
 $max-width: 740px;
 $med-width: 600px;
@@ -14,7 +14,7 @@ $small-width: 480px;
 body {
     margin: 0;
     font-family: "Inconsolata";
-    background-color: #FFFFDD;
+    background-color: #d1d5d6;
     min-height: 100%;
 }
 a {
@@ -23,15 +23,6 @@ a {
 }
 a:hover {
     text-decoration: underline;
-}
-hr {
-    margin: 5px;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-}
-code {
-    background-color: #d8e7ff;
-    color: #002b72;
 }
 
 // divs
@@ -60,7 +51,9 @@ code {
         list-style-type: none;
         margin: 0 5px 0 10px;
     }
-
+    img {
+        vertical-align: middle;
+    }
     padding: 30px 0 20px 0;
     .site-title{
         font-size: 32px;
