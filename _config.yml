@@ -13,6 +13,6 @@ navbar:
  - name: "Noticias"
    link: ""
  - name: "Eventos"
-   link: "events"
+   link: "/events"
  - name: "Miembros"
-   link: "members"
+   link: "/members"
