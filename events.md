@@ -19,4 +19,4 @@ layout: default
     * Airline Competitive Hub-and-Spoke Network Design by Reweighted Norm-1, Fernando Real-Rojas, Universidad Rey Juan Carlos.
     * Integrated Regional Airline Scheduling Via Column Generation, Alberto Santini, Universitat Pompeu Fabra.
     * A Benders Decomposition Approach for an Integrated and Non-Linear Model for Airport Runway Assignment and Aircraft Trajectory Optimisation, Luis Cadarso, Universidad Rey Juan Carlos.
-* **Primer seminario del grupo de transporte. Valencia, ??/??/2014.**
+* **Primer seminario del grupo de transporte. Valencia, Junio 2017.**
