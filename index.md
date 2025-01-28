@@ -4,7 +4,7 @@ layout: default
 
 ### Noticias
 
-**Fechas límites [SEIO 2025](https://seio2025.com/) y finaciación**
+**Fechas límites [SEIO 2025](https://seio2025.com/) y financiación**
 
 La fecha límite para enviar sus trabajos a la conferencia SEIO 2025 es el 9 de febrero.
 Además, el plazo para la  tarifa reducida finaliza el 1 de marzo.
