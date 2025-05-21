@@ -10,7 +10,7 @@ El grupo contará con dos sesiones dedicadas en el próximo congreso SEIO 2025, 
 Nuestras dos sesiones tendrán lugar el jueves 12 de junio.
 La sesión "Algoritmos heurísticos para la optimización del transporte" se celebrará a las 11:30 en la sala MR 13; la sesión "Logística y Transporte de Última Milla" comenzará a las 15:30 en la misma sala.
 
-También quiero destacar otras sesiones centradas o que contienen trabajos en la optimización del transporte.
+También destacan otras sesiones centradas o que contienen trabajos en la optimización del transporte.
 Algunas de ellas estarán presididas por colegas de nuestro grupo.
 "Rutas e inventarios", el martes 10 de junio, a las 17:10 en la sala MR 2; "Transporte I", el miércoles 11 de junio, a las 10:30 en la sala 3; "Transporte II", también el miércoles 11 de junio, a las 15:30 en la sala 3; "Métodos y aplicaciones de la IO I", el jueves 12 de junio, a las 19:00 en el Auditorio 2'; "Métodos y aplicaciones de la IO II", el viernes 13 de junio, a las 09:00 en la sala MR 13.
 
