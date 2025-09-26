@@ -4,6 +4,21 @@ layout: default
 
 ### Noticias
 
+**Jornadas de Trabajo y Escuela Doctoral**
+
+(Más informaciones en la [página dedicada](/workshop-2025) y en el [formulario de inscripción](https://forms.gle/jWb25saPdZYgpx9R9).)
+
+Las Jornadas de Trabajo del grupo se celebrarán los días 1 y 2 de diciembre de 2025, y la Escuela de Doctorado se celebrará los días 2 y 3 de diciembre de 2025. Ambos eventos tendrán lugar en la Universitat Pompeu Fabra, en Barcelona, en el Campus de la Ciutadella (Carrer Ramon Trias-Fargas, 5-7).
+
+*Escuela de Doctorado.*
+El tema de la Escuela de Doctorado es “Métodos exactos para la optimización de ruteo de vehículos y logística”. El profesor es Roberto Roberti  (Universidad de Padua), uno de los principales expertos mundiales en  enrutamiento de vehículos y optimización combinatoria. El trabajo de  Roberto ha tenido un impacto enorme en los avances recientes en  algoritmos exactos para problemas de enrutamiento, con contribuciones  fundamentales como la técnica de relajación ng-path. Sus investigaciones  se han publicado en Management Science, Operations Research,  Transportation Science y en el European Journal of Operational Research,  entre otras revistas de gran prestigio.
+
+*Inscripción.*
+Es posible inscribirse tanto en uno como en ambos eventos; en cualquier caso, el precio es de 100 euros. La matrícula incluye las pausas de café, una cena social el 1 de diciembre, y posiblemente una actividad social (pendiente de confirmar).
+
+*Alojamiento para estudiantes.*
+SEIO Transporte ofrece alojamiento gratuito a un máximo de 12 estudiantes de doctorado que asistan a ambos eventos. La oferta cubre las noches del 1 al 2 y del 2 al 3 de diciembre, en habitaciones compartidas en un albergue. La prioridad se dará primero a los estudiantes miembros de SEIO Transporte (por orden de inscripción) y, a continuación, al resto de estudiantes (también por orden de inscripción).
+
 **Sesiones del grupo en la [SEIO 2025](https://seio2025.com/)**
 
 El grupo contará con dos sesiones dedicadas en el próximo congreso SEIO 2025, que se celebrará en Lleida del 10 al 13 de junio.
