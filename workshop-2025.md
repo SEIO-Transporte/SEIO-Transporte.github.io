@@ -4,6 +4,10 @@ layout: default
 
 # Jornadas de Trabajo y Escuela Doctoral 2025
 
+## Patrocinio
+
+Esta escuela doctoral y jornadas de trabajo se realizan gracias al soporte dela SEIO y de la Universitat Pompeu Fabra.
+
 ## Programa
 
 ### 1 de Diciembre
@@ -42,4 +46,8 @@ layout: default
 
 # Alojamiento para estudiantes
 
-Ofrecemos alojamiento para hasta 12 estudiantes en el [Yeah! hostel]()
+Ofrecemos alojamiento para hasta 12 estudiantes en el [Yeah! hostel](https://yeahostels.com/). (**Para confirmar**)
+
+# Cena social
+
+La cena social se hará al [restaurante Cacho](https://wearecacho.com/) a las 20:30 del día 1 de diciembre. (**Para confirmar**)
