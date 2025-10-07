@@ -44,10 +44,10 @@ Esta escuela doctoral y jornadas de trabajo se realizan gracias al soporte dela 
 
 **11:30-13:00** Escuela doctoral. Parte 4.
 
-# Alojamiento para estudiantes
+## Alojamiento para estudiantes
 
 Ofrecemos alojamiento para hasta 12 estudiantes en el [Yeah! hostel](https://yeahostels.com/). (**Para confirmar**)
 
-# Cena social
+## Cena social
 
 La cena social se hará al [restaurante Cacho](https://wearecacho.com/) a las 20:30 del día 1 de diciembre. (**Para confirmar**)
