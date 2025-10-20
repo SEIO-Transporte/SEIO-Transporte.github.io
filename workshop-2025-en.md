@@ -4,6 +4,8 @@ layout: default
 
 # Workshop and PhD School 2025
 
+([Spanish Version](/workshop-2025/))
+
 ## Sponsors
 
 This doctoral school and workshop are made possible thanks to the support of SEIO and Universitat Pompeu Fabra.

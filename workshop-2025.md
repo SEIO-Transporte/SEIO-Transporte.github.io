@@ -4,6 +4,8 @@ layout: default
 
 # Jornadas de Trabajo y Escuela Doctoral 2025
 
+([English Version](/workshop-2025-en/))
+
 ## Patrocinio
 
 Esta escuela doctoral y jornadas de trabajo se realizan gracias al soporte dela SEIO y de la Universitat Pompeu Fabra.
