@@ -8,6 +8,15 @@ layout: default
 
 Esta escuela doctoral y jornadas de trabajo se realizan gracias al soporte dela SEIO y de la Universitat Pompeu Fabra.
 
+## Profesor Convidado
+
+<a href="/assets/Roberto_Roberti.jpeg"><img height="150px" src="/assets/Roberto_Roberti.jpeg" alt="Foto de perfil de Roberto Roberti"/></a>
+
+El tema de la Escuela de Doctorado es “Métodos exactos para la optimización de ruteo de vehículos y logística”.
+El profesor es Roberto Roberti (Universidad de Padua), uno de los principales expertos mundiales en enrutamiento de vehículos y optimización combinatoria.
+El trabajo de Roberto ha tenido un impacto enorme en los avances recientes en algoritmos exactos para problemas de enrutamiento, con contribuciones fundamentales como la técnica de relajación ng-path.
+Sus investigaciones se han publicado en Management Science, Operations Research, Transportation Science y en el European Journal of Operational Research, entre otras revistas de gran prestigio.
+
 ## Programa
 
 ### 1 de Diciembre

@@ -8,6 +8,15 @@ layout: default
 
 This doctoral school and workshop are made possible thanks to the support of SEIO and Universitat Pompeu Fabra.
 
+## Invited Teacher
+
+<a href="/assets/Roberto_Roberti.jpeg"><img height="150px" src="/assets/Roberto_Roberti.jpeg" alt="Roberto Roberti's profile"/></a>
+
+The PhD School theme is "Exact methods for vehicle routing and logistics optimisation".
+The professor is Roberto Roberti (University of Padua), one of the world's leading experts in vehicle routing and combinatorial optimisation.
+Roberto's work has had a tremendous impact on recent advances in exact algorithms for routing problems with fundamental contributions, such as the ng-path relaxation technique.
+His work has been published in Management Science, Operations Research, Transportation Science, and the European Journal of Operational Research, among other notable journals.
+
 ## Program
 
 ### December 1
