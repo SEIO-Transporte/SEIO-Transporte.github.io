@@ -10,7 +10,7 @@ This doctoral school and workshop are made possible thanks to the support of SEI
 
 ## Invited Teacher
 
-<a href="/assets/Roberto_Roberti.jpeg"><img height="150px" src="/assets/Roberto_Roberti.jpeg" alt="Roberto Roberti's profile"/></a>
+<a href="/assets/Roberto_Roberti.jpg"><img height="150px" src="/assets/Roberto_Roberti.jpg" alt="Roberto Roberti's profile"/></a>
 
 The PhD School theme is "Exact methods for vehicle routing and logistics optimisation".
 The professor is Roberto Roberti (University of Padua), one of the world's leading experts in vehicle routing and combinatorial optimisation.

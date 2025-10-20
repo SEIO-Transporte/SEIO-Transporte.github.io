@@ -10,7 +10,7 @@ Esta escuela doctoral y jornadas de trabajo se realizan gracias al soporte dela 
 
 ## Profesor Convidado
 
-<a href="/assets/Roberto_Roberti.jpeg"><img height="150px" src="/assets/Roberto_Roberti.jpeg" alt="Foto de perfil de Roberto Roberti"/></a>
+<a href="/assets/Roberto_Roberti.jpg"><img height="150px" src="/assets/Roberto_Roberti.jpg" alt="Foto de perfil de Roberto Roberti"/></a>
 
 El tema de la Escuela de Doctorado es “Métodos exactos para la optimización de ruteo de vehículos y logística”.
 El profesor es Roberto Roberti (Universidad de Padua), uno de los principales expertos mundiales en enrutamiento de vehículos y optimización combinatoria.
