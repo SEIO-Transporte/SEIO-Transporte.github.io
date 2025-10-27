@@ -8,6 +8,8 @@ layout: default
 
 (Más informaciones en la [página dedicada](/workshop-2025) y en el [formulario de inscripción](https://forms.gle/jWb25saPdZYgpx9R9).)
 
+(More information in the [event's page](/workshop-2025-en) and in the [enrolment form](https://forms.gle/jWb25saPdZYgpx9R9).)
+
 Las Jornadas de Trabajo del grupo se celebrarán los días 1 y 2 de diciembre de 2025, y la Escuela de Doctorado se celebrará los días 2 y 3 de diciembre de 2025. Ambos eventos tendrán lugar en la Universitat Pompeu Fabra, en Barcelona, en el Campus de la Ciutadella (Carrer Ramon Trias-Fargas, 5-7).
 
 *Escuela de Doctorado.*

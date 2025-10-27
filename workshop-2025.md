@@ -57,8 +57,8 @@ Sus investigaciones se han publicado en Management Science, Operations Research,
 
 ## Alojamiento para estudiantes
 
-Ofrecemos alojamiento para hasta 12 estudiantes en el [Yeah! hostel](https://yeahostels.com/). (**Para confirmar**)
+Ofrecemos alojamiento para hasta 12 estudiantes en el [Yeah! hostel](https://yeahostels.com/).
 
 ## Cena social
 
-La cena social se hará al [restaurante Cacho](https://wearecacho.com/) a las 20:30 del día 1 de diciembre. (**Para confirmar**)
+La cena social se hará al [restaurante Cacho](https://wearecacho.com/) a las 20:30 del día 1 de diciembre.

@@ -57,8 +57,8 @@ His work has been published in Management Science, Operations Research, Transpor
 
 ## Student Accommodation
 
-We offer accommodation for up to 12 students at the [Yeah! hostel](https://yeahostels.com/). (**To be confirmed**)
+We offer accommodation for up to 12 students at the [Yeah! hostel](https://yeahostels.com/).
 
 ## Social Dinner
 
-The social dinner will take place at [Cacho Restaurant](https://wearecacho.com/) at 20:30 on December 1. (**To be confirmed**)
+The social dinner will take place at [Cacho Restaurant](https://wearecacho.com/) at 20:30 on December 1.
