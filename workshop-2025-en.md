@@ -62,3 +62,25 @@ We offer accommodation for up to 12 students at the [Yeah! hostel](https://yeaho
 ## Social Dinner
 
 The social dinner will take place at [Cacho Restaurant](https://wearecacho.com/) at 20:30 on December 1.
+
+## Participants
+
+* Sergio Anglada
+* Aitor Hérnandez
+* José Alberto Ruíz Alba
+* Alessio Borgi
+* Lorenzo Saccucci
+* Astrid Wahyu Adventri Wibowo
+* Igor Malheiros
+* Sibel Erişkan
+* Tamara Ertl
+* Louis Bonnet
+* Luca Nerozzi
+* Magnus Vilhelm Barrett Levinsen
+* Paolo Beatrici
+* Yun-Tian Zhang
+* Enrico Brambilla
+* Filippo Ranza
+* Annalisa Castelletti
+* Lorenzo Tomasetti
+* Francesco Ventura
