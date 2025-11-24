@@ -21,25 +21,33 @@ Sus investigaciones se han publicado en Management Science, Operations Research,
 
 ## Programa
 
-### 1 de Diciembre
+**15:00–15:30** Registración y bienvenida.
 
-**15:00-16:30** Jornada de trabajo. Sesión 1.
+**15:30-16:30** Jornadas de trabajo. Sesión 1.
 
-**16:30-17:00** Pausa café.
+* Luca Nerozzi, "Branch-and-Cut Algorithm for the Split Delivery VRP with Binary Refilling"
+* Sergio Anglada Salvanés, "Models for the Capacitated Vertex Separator Problem"
 
-**17:00-18:30** Jornada de trabajo. Sesión 2.
+**16:30–17:00** Pausa café.
 
-**20:30** Cena social.
+**17:00–18:00** Jornadas de trabajo. Sesión 2.
 
-### 2 de Diciembre
+* Paolo Beatrici, "A Benders decomposition approach for a green bi-objective stochastic fleet size and mix vehicle routing problem"
+* Astrid Wahyu Adventri Wibowo, "Optimal Mothership-Drones Routes for Multi-Target Operations"
 
-**09:30-11:00** Jornada de trabajo. Sesión 3.
+**20:30** Cena Social.
 
-**11:00-11:30** Pausa café.
+### December 2
 
-**11:30-13:00** Jornada de trabajo. Sesión 4.
+**09:45–11:15** Jornadas de trabajo. Sesión 3.
 
-**13:00-15:00** Almuerzo.
+* Alessio Borgi, "From Graphs to Sheaves: Modeling Spatial Heterophily in Transportation Networks"
+* Igor Malheiros, "The robust time-dependent vehicle routing problem with time windows and budget uncertainty"
+* Louis Bonnet, "Commodity Aggregation for the Scheduled Service Network Design Problem"
+
+**11:15–11:45** Pausa café.
+
+**12:00–13:00** Visita guiada a la colección de arte de la UPF.
 
 **15:00-16:30** Escuela doctoral. Parte 1.
 
@@ -57,7 +65,7 @@ Sus investigaciones se han publicado en Management Science, Operations Research,
 
 ## Alojamiento para estudiantes
 
-Ofrecemos alojamiento para hasta 12 estudiantes en el [Yeah! hostel](https://yeahostels.com/).
+Ofrecemos alojamiento para hasta 12 estudiantes (en habitaciones compartidas) en el [Yeah! hostel](https://yeahostels.com/).
 
 ## Cena social
 

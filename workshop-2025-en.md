@@ -23,21 +23,33 @@ His work has been published in Management Science, Operations Research, Transpor
 
 ### December 1
 
-**15:00–16:30** Workshop. Session 1.
+**15:00–15:30** Registration and welcome.
+
+**15:30-16:30** Workshop. Session 1.
+
+* Luca Nerozzi, "Branch-and-Cut Algorithm for the Split Delivery VRP with Binary Refilling"
+* Sergio Anglada Salvanés, "Models for the Capacitated Vertex Separator Problem"
 
 **16:30–17:00** Coffee break.
 
-**17:00–18:30** Workshop. Session 2.
+**17:00–18:00** Workshop. Session 2.
 
-**20:30 Social** dinner.
+* Paolo Beatrici, "A Benders decomposition approach for a green bi-objective stochastic fleet size and mix vehicle routing problem"
+* Astrid Wahyu Adventri Wibowo, "Optimal Mothership-Drones Routes for Multi-Target Operations"
+
+**20:30** Social dinner.
 
 ### December 2
 
-**09:30–11:00** Workshop. Session 3.
+**09:45–11:15** Workshop. Session 3.
 
-**11:00–11:30** Coffee break.
+* Alessio Borgi, "From Graphs to Sheaves: Modeling Spatial Heterophily in Transportation Networks"
+* Igor Malheiros, "The robust time-dependent vehicle routing problem with time windows and budget uncertainty"
+* Louis Bonnet, "Commodity Aggregation for the Scheduled Service Network Design Problem"
 
-**11:30–13:00** Workshop. Session 4.
+**11:15–11:45** Coffee break.
+
+**12:00–13:00** Guided tour to UPF's own art gallery.
 
 **13:00–15:00** Lunch.
 
@@ -57,7 +69,7 @@ His work has been published in Management Science, Operations Research, Transpor
 
 ## Student Accommodation
 
-We offer accommodation for up to 12 students at the [Yeah! hostel](https://yeahostels.com/).
+We offer accommodation for up to 12 students (in shared rooms) at the [Yeah! hostel](https://yeahostels.com/).
 
 ## Social Dinner
 
