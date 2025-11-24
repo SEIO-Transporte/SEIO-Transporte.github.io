@@ -84,3 +84,4 @@ La cena social se hará al [restaurante Cacho](https://wearecacho.com/) a las 20
 * Annalisa Castelletti
 * Lorenzo Tomasetti
 * Francesco Ventura
+* Lorenzo Ciarpaglini

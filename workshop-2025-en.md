@@ -84,3 +84,4 @@ The social dinner will take place at [Cacho Restaurant](https://wearecacho.com/)
 * Annalisa Castelletti
 * Lorenzo Tomasetti
 * Francesco Ventura
+* Lorenzo Ciarpaglini
