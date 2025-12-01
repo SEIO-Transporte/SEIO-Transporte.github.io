@@ -4,6 +4,15 @@ layout: default
 
 ### Eventos
 
+* **Tercer seminario del grupode transporte + Escuela Doctoral. Barcelona, 1-3/12/2025.**
+    * Escuela Doctoral: "Algoritmos exactos para problemas de enrutamiento", Roberto Roberti, Universidad de Padua.
+    * Branch-and-Cut Algorithm for the Split Delivery VRP with Binary Refilling, Luca Nerozzi, Universidad de Siena.
+    * Models for the Capacitated Vertex Separator Problem, Sergio Anglada Salvanés, Universidad de Zaragoza.
+    * A Benders decomposition approach for a green bi-objective stochastic fleet size and mix vehicle routing problem, Paolo Beatrici, Universidad de Bergamo.
+    * Optimal Mothership-Drones Routes for Multi-Target Operations, Astrid Wahyu Adventri Wibowo, Universidad de Szeged.
+    * From Graphs to Sheaves: Modeling Spatial Heterophily in Transportation Networks, Alessio Borgi, Universidad de Roma La Sapienza.
+    * The robust time-dependent vehicle routing problem with time windows and budget uncertainty, Igor Malheiros, Universidad de Montpellier
+    * Commodity Aggregation for the Scheduled Service Network Design Problem, Louis Bonnet, LAAS-CNRS.
 * **Segundo seminario del grupo de transporte. Sevilla, 28-29/11/2024.**
     * Diseño de Redes de Autobuses y Determinación de la Flota. Alicia de los Santos, Universidad de Sevilla.
     * An Integrated Design Approach for Rapid and Slow Transit Modes, Natividad González, Universidad Loyola, Sevilla.
