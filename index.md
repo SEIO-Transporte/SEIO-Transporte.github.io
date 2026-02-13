@@ -4,6 +4,18 @@ layout: default
 
 ### Noticias
 
+**Convocatoria de sesiones en la conferencia [SEIO 2026](https://seio2026.com/), Santiago de Compostela, 2-5 de Septiembre 2026.**
+
+El Congreso SEIO 2026 se celebrará en Santiago de Compostela del 2 al 5 de septiembre de 2026.
+Como cada año, el comité científico del congreso facilita la organización de [sesiones especiales para los grupos de trabajo](https://seio2026.com/es/c/bases-sesiones-invitadas).
+En las últimas ediciones, las sesiones del Grupo de Transporte han resultado ser todo un éxito, por lo que os animamos a que participéis en estas sesiones.
+
+Los miembros interesados en organizar una sesión o en presentar un trabajo sobre temas de optimización de transporte pueden completar [este formulario](https://forms.gle/2G3NjsrTVTpbGeuBA) antes del 26 de febrero de 2026.
+El requisito que pone el comité científico es que el organizador de la sesión debe ser socio de la SEIO y los ponentes de una sesión deben provenir de al menos tres instituciones diferentes.
+
+Los miembros interesados en participar integrándose en alguna de las sesiones que organicemos, sin estar en ninguna de las sesiones propuesta, pueden rellenar [este formulario](https://forms.gle/kGWsi4TLswM9fM9L8) con la información sobre su charla.
+Con esta información, organizaremos sesiones intentando ajustar las temáticas.
+
 **Jornadas de Trabajo y Escuela Doctoral**
 
 (Más informaciones en la [página dedicada](/workshop-2025) y en el [formulario de inscripción](https://forms.gle/jWb25saPdZYgpx9R9).)
