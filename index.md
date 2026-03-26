@@ -4,7 +4,20 @@ layout: default
 
 ### Noticias
 
-**Convocatoria de sesiones en la conferencia [SEIO 2026](https://seio2026.com/), Santiago de Compostela, 2-5 de Septiembre 2026.**
+**Fechas límites [SEIO 2026](https://seio2026.com/) y financiación**
+
+Les recordamos que la fecha límite para enviar sus trabajos a la conferencia SEIO 2026 es el 10 de abril.
+Además, el plazo para la  tarifa reducida finaliza el 14 de mayo.
+Confiamos en que podremos patrocinar la participación de algunos  miembros del Grupo de Transporte.
+Por lo tanto, si alguien está interesado en  esta oportunidad, envíe un correo electrónico a [alberto.santini@upf.edu](mailto:alberto.santini@upf.edu) con el asunto "Financiación SEIO 2026", describiendo el tipo de ayuda que solicita.
+La fecha límite para pedir esta financiación es el 20 de abril de 2026.
+Recuerden que nuestro  compromiso con la SEIO es que la financiación para la conferencia se  otorgue según las siguientes directrices:
+
+* Se busca cubrir total o parcialmente los gastos de asistencia a congresos, promoviendo la difusión e internacionalización de la actividad del grupo.
+* El proceso de selección se realizará con una convocatoria abierta a investigadores del grupo en transporte y socios de la SEIO. Se priorizarán solicitudes de aquellos sin financiación pública o privada, así como las de estudiantes y jubilados.
+* Los beneficiarios se comprometerán a presentar un trabajo en transporte en el congreso agradeciendo la ayuda de la SEIO. La no presentación resultará en la no concesión de la ayuda, que se entregará después del evento.
+
+**Convocatoria de sesiones en la conferencia [SEIO 2026](https://seio2026.com/), Santiago de Compostela, 2-5 de septiembre de 2026.**
 
 El Congreso SEIO 2026 se celebrará en Santiago de Compostela del 2 al 5 de septiembre de 2026.
 Como cada año, el comité científico del congreso facilita la organización de [sesiones especiales para los grupos de trabajo](https://seio2026.com/es/c/bases-sesiones-invitadas).
@@ -13,12 +26,12 @@ En las últimas ediciones, las sesiones del Grupo de Transporte han resultado se
 Los miembros interesados en organizar una sesión o en presentar un trabajo sobre temas de optimización de transporte pueden completar [este formulario](https://forms.gle/2G3NjsrTVTpbGeuBA) antes del 26 de febrero de 2026.
 El requisito que pone el comité científico es que el organizador de la sesión debe ser socio de la SEIO y los ponentes de una sesión deben provenir de al menos tres instituciones diferentes.
 
-Los miembros interesados en participar integrándose en alguna de las sesiones que organicemos, sin estar en ninguna de las sesiones propuesta, pueden rellenar [este formulario](https://forms.gle/kGWsi4TLswM9fM9L8) con la información sobre su charla.
+Los miembros interesados en participar integrándose en alguna de las sesiones que organicemos, sin estar en ninguna de las sesiones propuestas, pueden rellenar [este formulario](https://forms.gle/kGWsi4TLswM9fM9L8) con la información sobre su charla.
 Con esta información, organizaremos sesiones intentando ajustar las temáticas.
 
 **Jornadas de Trabajo y Escuela Doctoral**
 
-(Más informaciones en la [página dedicada](/workshop-2025) y en el [formulario de inscripción](https://forms.gle/jWb25saPdZYgpx9R9).)
+(Más información en la [página dedicada](/workshop-2025) y en el [formulario de inscripción](https://forms.gle/jWb25saPdZYgpx9R9).)
 
 (More information in the [event's page](/workshop-2025-en) and in the [enrolment form](https://forms.gle/jWb25saPdZYgpx9R9).)
 
